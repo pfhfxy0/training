@@ -58,7 +58,7 @@ variable "aws_region" {
 
 variable "num_webs" {
   type    = "string"
-  default = "3"
+  default = "4"
 }
 
 output "public_ip" {
